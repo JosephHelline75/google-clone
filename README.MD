@@ -1,4 +1,4 @@
-#Google Clone
+# Google Clone
 
 This is a simple beginner project for The Odin Project which involves creating a clone of the Google homepage. Key points to be learned here are foundational skills in HTML/CSS, navigating and using VS Code, and Git. 
 
